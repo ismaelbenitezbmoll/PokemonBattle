@@ -1,5 +1,5 @@
 # Pokemon Battle
-Este es un simple juego de batalla de Pokémon desarrollado en Java. En este juego, los jugadores eligen un Pokémon para luchar contra una serie de enemigos controlados por la maquina. El objetivo es derrotar a todos los enemigos y convertirse en el mejor entrenador Pokémon.
+Este es un simple juego de batalla de Pokémon desarrollado en Java. En este juego, los jugadores eligen un Pokémon para luchar contra un enemigo controlado por la maquina. El objetivo es derrotar al enemigos y convertirse en el mejor entrenador Pokémon.
 
 ## Funcionalidades
 
