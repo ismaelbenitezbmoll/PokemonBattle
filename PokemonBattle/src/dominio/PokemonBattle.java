@@ -1,4 +1,3 @@
-// PokemonBattle.java
 package dominio;
 
 import java.util.ArrayList;
