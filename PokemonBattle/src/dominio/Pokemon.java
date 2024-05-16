@@ -1,4 +1,3 @@
-// Pokemon.java
 package dominio;
 
 public abstract class Pokemon {
