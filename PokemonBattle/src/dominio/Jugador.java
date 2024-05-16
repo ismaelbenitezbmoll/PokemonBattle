@@ -1,4 +1,3 @@
-// Jugador.java
 package dominio;
 
 import java.util.ArrayList;
